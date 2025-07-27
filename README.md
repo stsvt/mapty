@@ -32,6 +32,10 @@ This app was developed as part of learning modern JavaScript and architecture pa
 - **Geolocation API**
 - **localStorage**
 
+## 📸 Screenshot
+
+![Mapty App Screenshot](./screenshot.png)  
+
 ## ⚙️ How to Run Locally
 
 1. Clone the repo:
